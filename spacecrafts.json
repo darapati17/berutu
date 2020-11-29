@@ -95,11 +95,6 @@
     "imageurl": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/spacecrafts/spitzer.jpg",
     "technologyexists": "1"
   },
-      "judul": "Warp Drive",
-    "deskripsi": "Canis Majos",
-    "imageurl": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/spacecrafts/wmap.jpg",
-    "technologyexists": "0"
-  },
   {
     "id": "34",
     "nama_cat": "Kepler",
